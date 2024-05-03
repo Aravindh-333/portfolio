@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://portfolio-iota-liart-53.vercel.app/" target="_blank">Aravindh.tech</a>
+  <a href="https://portfolio-git-main-aravindh-333s-projects.vercel.app/" target="_blank">ARAVINDH.TECH</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme1-img.png.png" />
 </div>
 
 <br/>
