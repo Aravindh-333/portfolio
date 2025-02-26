@@ -16,23 +16,23 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET ME <span className="purple"> INTRODUCING </span> MYSELF
             </h1>
             <p className="home-about-body">
               I have always been passionate about programming, constantly learning and evolving with new technologies. 💡
               <br />
-              <br />I am fluent in classics like
+              <br />I am proficient in core technologies such as
               <i>
-                <b className="purple"> HTML,CSS,JavsScript. </b>
+                <b className="purple"> HTML,CSS,JavsScriptAnd NodeJS. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Application </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Cyber Security.
+                  Backend Developmemnt.
                 </b>
               </i>
               <br />
@@ -42,12 +42,12 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  DevOps and AWS
+                  HTML And CSS
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Node.JS and JavaScript</b>
               </i>
             </p>
           </Col>
