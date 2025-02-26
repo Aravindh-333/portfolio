@@ -23,21 +23,20 @@ function Home2() {
               <br />
               <br />I am proficient in core technologies such as
               <i>
-                <b className="purple"> HTML,CSS,JavsScriptAnd NodeJS. </b>
+                <b className="purple"> HTML,CSS,JavsScript And NodeJS. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+             My areas of interest include &nbsp;
               <i>
-                <b className="purple">Web Application </b> and
-                also in areas related to{" "}
+                <b className="purple">Web Application </b> where I continuously explore innovative solutions to build scalable and secure systems.{" "}
                 <b className="purple">
-                  Backend Developmemnt.
+                  Backend Developmemnt or Cloun Engineer.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
+             Beyond coding, I am also deeply engaged in Cloud Computing, DevOps, and AWS, leveraging these technologies to enhance the efficiency and scalability of applications. My expertise extends to modern frameworks like React.js and Next.js, enabling the creation of dynamic, high-performance web applications.
               with <b className="purple">Cloud</b> and
               <i>
                 <b className="purple">
