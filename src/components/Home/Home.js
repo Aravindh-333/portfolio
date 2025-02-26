@@ -23,6 +23,7 @@ function Home() {
               <h1 className="heading-name">
                 I'M
                 <strong className="main-name"> ARAVINDH ALAGAPPAN</strong>
+                  <P> Software Engineeer Intern At iZet E-payments </p>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
