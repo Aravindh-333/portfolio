@@ -16,38 +16,25 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCING </span> MYSELF
+              LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
               I have always been passionate about programming, constantly learning and evolving with new technologies. 💡
               <br />
               <br />I am proficient in core technologies such as
               <i>
-                <b className="purple"> HTML,CSS,JavsScript And NodeJS. </b>
+                <b className="purple"> HTML, CSS, JavaScript, and Node.js. </b>
               </i>
               <br />
               <br />
-             My areas of interest include &nbsp;
+              My areas of interest include &nbsp;
               <i>
-                <b className="purple">Web Application </b> where I continuously explore innovative solutions to build scalable and secure systems.{" "}
-                <b className="purple">
-                  Backend Developmemnt or Cloun Engineer.
-                </b>
+                <b className="purple">Web Application Development</b>, where I continuously explore innovative solutions to build scalable and secure systems.
+                <b className="purple"> Backend Development and Cloud Engineering.</b>
               </i>
               <br />
               <br />
-             Beyond coding, I am also deeply engaged in Cloud Computing, DevOps, and AWS, leveraging these technologies to enhance the efficiency and scalability of applications. My expertise extends to modern frameworks like React.js and Next.js, enabling the creation of dynamic, high-performance web applications.
-              with <b className="purple">Cloud</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  HTML And CSS
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> Node.JS and JavaScript</b>
-              </i>
+              Beyond coding, I am also deeply engaged in Cloud Computing, DevOps, and AWS, leveraging these technologies to enhance the efficiency and scalability of applications. My expertise extends to modern frameworks like React.js and Next.js, enabling the creation of dynamic, high-performance web applications.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
