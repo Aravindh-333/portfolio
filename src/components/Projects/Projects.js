@@ -20,8 +20,9 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Locator Using facial Recognition"
-              description="The implementation of facial detection using biometric marking offers a promising solution for tracking individuals in areas covered by cameras. By comparing biometric data from a victim's image with live stream video, we can accurately identify and locate individuals in real-time, enhancing security and surveillance capabilities"
+              title="FaceScan 360: Advanced Real-Time Recognition and Tracking System"
+              description="The problem is to design and implement a system that efficiently manages user authentication and authorization while providing functionalities for comparing and processing images. The system should support secure storage of user credentials, facilitate role-based access control, and enable accurate image similarity analysis. Additionally, it must handle multimedia content, including images and videos, and ensure secure, scalable management of user data and related resources.
+"
               ghLink="https://github.com/Aravindh-333/Locator-using-Facial-recognition.git"
             />
           </Col>
