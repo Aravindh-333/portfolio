@@ -25,6 +25,7 @@ function Home() {
                 <strong className="main-name"> ARAVINDH ALAGAPPAN</strong>
                 <p>Software Engineer Intern at iZet E-payments</p>
 
+
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
