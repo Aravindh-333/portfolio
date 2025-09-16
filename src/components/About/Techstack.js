@@ -10,8 +10,8 @@ import {
   SiPandas,
   SiJupyter,
   SiTableau,
-  SiScikitlearn,
-  SiNumpy
+  SiTensorflow,
+  SiApachespark
 } from "react-icons/si";
 
 function Techstack() {
@@ -53,14 +53,14 @@ function Techstack() {
         <SiTableau />
       </Col>
 
-      {/* Machine Learning Icon */}
+      {/* Machine Learning (TensorFlow) Icon */}
       <Col xs={4} md={2} className="tech-icons">
-        <SiScikitlearn />
+        <SiTensorflow />
       </Col>
 
-      {/* NumPy Icon */}
+      {/* Data Processing (Apache Spark) Icon */}
       <Col xs={4} md={2} className="tech-icons">
-        <SiNumpy />
+        <SiApachespark />
       </Col>
 
     </Row>
