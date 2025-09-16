@@ -15,22 +15,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I have always been passionate about programming, constantly learning and evolving with new technologies. 💡
+              I am passionate about turning data into actionable insights, constantly learning and growing in the field of Data Analytics.
               <br />
               <br />I am proficient in core technologies such as{" "}
               <i>
-                <b className="purple">HTML, CSS, JavaScript,Node.js,Express.js,React.js.</b>
+                <b className="purple">Python,Advance Excel, Data Analytics, PowerBI, MySQL, Data visualization, Data Cleaning, Tableau. </b>
               </i>
               <br />
               <br />
               My areas of interest include{" "}
               <i>
-                <b className="purple">Web Application Development</b>, where I continuously explore innovative solutions to build scalable and secure systems.{" "}
-                <b className="purple">Backend Development</b> and <b className="purple">Cloud Engineering.</b>
+                <b className="purple">Data Cleaning, Exploratory Data Analysis (EDA), and Data Visualization</b>,where I work on delivering clear and impactful reports that guide strategy and improve processes.{" "}
               </i>
               <br />
               <br />
-              Beyond coding, I am also deeply engaged in Cloud Computing, DevOps, and AWS, leveraging these technologies to enhance the efficiency and scalability of applications. My expertise extends to modern frameworks like React.js and Next.js, enabling the creation of dynamic, high-performance web applications.
+                I have also applied Machine Learning techniques for classification and prediction tasks, further enhancing the value of data-driven solutions.
+              Beyond analytics, I am eager to explore Cloud-based data solutions, ETL pipelines, and tools like MySQL, MongoDB, and AWS, enabling efficient data management and scalable analytics frameworks.
+
+I am actively seeking opportunities as a Data Analyst where I can apply my analytical mindset, technical skills, and passion for problem-solving to help organizations unlock the full potential of their data.
+
+Let’s connect if you’re passionate about data and want to create impactful solutions together!
             </p>
           </Col>
           <Col md={4} className="Aravindh">
